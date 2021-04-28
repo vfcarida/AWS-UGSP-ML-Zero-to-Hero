@@ -1,7 +1,5 @@
 # AWS-UGSP-ML-Zero-to-Hero
 
-# AWS-UGSP-ML-Zero-to-Hero
-
 1º encontro
 
 Vídeo: https://www.youtube.com/watch?v=pnqHqNAeZHw
