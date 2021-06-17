@@ -6,7 +6,7 @@ Vídeo: https://www.youtube.com/watch?v=pnqHqNAeZHw
 
 Apresentação: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_1.pdf) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_1.pdf)
 
-Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_1.pynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_1.pynb)
+Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_1.ipynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_1.ipynb)
 
 Extras
 [Console AWS](https://aws.amazon.com/console/)
@@ -25,7 +25,7 @@ Vídeo: https://www.youtube.com/watch?v=7LanSs2xdvc
 
 Apresentação: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_2.pdf) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_2.pdf)
 
-Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_2.pynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_2.pynb)
+Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_2.ipynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_2.ipynb)
 
 3º encontro
 
@@ -33,4 +33,4 @@ Vídeo: https://www.youtube.com/watch?v=H1LdQP9PTQw
 
 Apresentação: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_3.pdf) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_3.pdf)
 
-Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_3.pynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_3.pynb)
+Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_3.ipynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_3.ipynb)
