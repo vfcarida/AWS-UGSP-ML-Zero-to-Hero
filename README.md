@@ -42,3 +42,8 @@ Vídeo: https://www.youtube.com/watch?v=ZTwUnxlNa9I
 Apresentação: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_4.pdf) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_4.pdf)
 
 Código: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_4.ipynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/blob/main/encontro_4.ipynb)
+
+Outros Links:
+[TensorFlow](https://www.tensorflow.org/)
+
+[Playground TensorFlow](https://playground.tensorflow.org/)
