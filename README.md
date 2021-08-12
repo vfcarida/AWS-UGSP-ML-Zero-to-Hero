@@ -47,3 +47,25 @@ Outros Links:
 [TensorFlow](https://www.tensorflow.org/)
 
 [Playground TensorFlow](https://playground.tensorflow.org/)
+
+## 5º encontro
+
+Vídeo: https://www.youtube.com/watch?v=xYeUjYhmycU
+
+Apresentação: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_5/encontro_5.pdf) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_5/encontro_5.pdf)
+
+Código principal: [Download](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_5/sagemaker/SageMaker%20Project.ipynb) - [On line](https://github.com/vfcarida/AWS-UGSP-ML-Zero-to-Hero/raw/main/encontro_5/sagemaker/SageMaker%20Project.ipynb)
+
+Outros Links:
+[NLTK](https://www.nltk.org/)
+
+[Spacy](https://spacy.io/)
+
+[Amazon Comprehend](https://aws.amazon.com/comprehend/)
+
+[Classificação de texto com Tensorflow - RNN](https://www.tensorflow.org/text/tutorials/text_classification_rnn?hl=en)
+
+[Classificação de texto com Tensorflow - Bert](https://www.tensorflow.org/text/tutorials/classify_text_with_bert?hl=en)
+
+
+
